@@ -1,0 +1,12 @@
+Gene,Name,Enzyme,Bp,F/C,Present,PA,DBP,DEHP,ATBC
+BDBJPGFE_00629,0629,Toluene-4-sulfonate monooxygenase system iron-sulfur subunit TsaM1,1067,F,N,0,0,0,0
+BDBJPGFE_00630,0630,"Phthalate 4,5-dioxygenase oxygenase reductase subunit",968,F,N,0,0,0,0
+BDBJPGFE_00631,0631,Solute-binding protein,1022,F,Y,9.850702862,53.02104991,10.28428792,38.10072821
+BDBJPGFE_00632,0632,"Protocatechuate 3,4-dioxygenase alpha chain",644,R,N,0,0,0,0
+BDBJPGFE_00633,0633,"Protocatechuate 3,4-dioxygenase beta chain",731,R,Y,1.063030753,0.821868794,0.929564364,1.124221777
+BDBJPGFE_00634,0634,HTH-type transcriptional regulator GbpR,932,R,N,0,0,0,0
+BDBJPGFE_00635,0635,3-oxoadipate enol-lactonase 2,1169,R,N,0,0,0,0
+BDBJPGFE_00636,0636,Beta-ketoadipyl-CoA thiolase,1217,R,N,0,0,0,0
+BDBJPGFE_00637,0637,3-oxoadipate CoA-transferase subunit B,773,R,N,0,0,0,0
+BDBJPGFE_00638,0638,3-oxoadipate CoA-transferase subunit A,833,R,Y,1.230106591,0.793539165,0.414220253,0.814214038
+BDBJPGFE_00639,0639,"3-carboxy-cis,cis-muconate cycloisomerase",1328,R,Y,1.707505233,0.950230882,0.971089833,1.022865652

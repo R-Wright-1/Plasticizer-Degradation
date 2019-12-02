@@ -1,0 +1,16 @@
+Gene,Name,Enzyme,Bp,F/C,Present,PA,DBP,DEHP,ATBC,Enzyme
+"JANJIKNC_03196 3,4-dihydroxyphthalate decarboxylase",3196,phtC,734,C,Y,1.059218335,29.62993042,2.81726121,1.357184319,"3,4-dihydroxy phthalate decarboxylase"
+JANJIKNC_03197,3197,phtAd,1244,C,Y,1.87823815,39.64499027,1.747408201,1.360587745,Rhodocoxin reductase
+JANJIKNC_03198,3198,phtAc,194,C,Y,1.673196246,6.281068486,1.13589016,1.258707733,Ferredoxin
+JANJIKNC_03199,3199,phtB,809,C,Y,2.484576564,77.27840075,7.99384722,1.894214881,Cis-toluene dihydrodiol dehydrogenase
+JANJIKNC_03200,3200,,299,C,Y,1.791278924,11.37089047,2.169415911,0.80033912,Hypothetical_protein
+"JANJIKNC_03201 Biphenyl 2,3-dioxygenase subunit beta",3201,phtAb,623,C,Y,1.654268408,101.0797366,12.71653165,0.915084368,"Phthalate 3,4-dioxygenase"
+"JANJIKNC_03202 Biphenyl 2,3-dioxygenase subunit alpha",3202,phtAa,1445,C,Y,1.153256428,38.95878194,2.021164389,1.20532873,"Phthalate 3,4-dioxygenase"
+JANJIKNC_03203 Pectin degradation repressor protein KdgR,3203,pcaR,797,F,Y,1.198134607,13.49060677,1.448453463,1.200428936,Transcriptional regulator
+JANJIKNC_03204 Pectin degradation repressor protein KdgR,3204,pcaR,749,C,N,0,0,0,0,Transcriptional regulator
+"JANJIKNC_03205 Protocatechuate 3,4-dioxygenase beta chain",3205,pcaH,779,F,Y,2.273534138,20.59373113,1.754228483,1.149154943,"Protocatechuate 3,4-dioxygenase"
+"JANJIKNC_03206 Protocatechuate 3,4-dioxygenase alpha chain",3206,pcaG,554,F,Y,1.733927207,33.39260332,1.439272734,1.151030982,"Protocatechuate 3,4-dioxygenase"
+"JANJIKNC_03207 3-carboxy-cis,cis-muconate cycloisomerase",3207,pcaB,1202,F,Y,1.382225819,5.646368682,1.635388424,0.765076899,"3-carboxy- cis,cis-muconate cycloisomerase"
+JANJIKNC_03208 3-oxoadipate enol-lactonase 2,3208,pcaL,1148,F,Y,1.884353975,82.84350376,1.774287748,1.270327075,3-oxoadipate enol-lactonase
+JANJIKNC_03209 3-oxoadipate CoA-transferase subunit A,3209,pcaI,668,F,Y,1.982352238,66.48713623,1.990025154,2.013650542,3-oxoadipate CoA-transferase
+JANJIKNC_03210 3-oxoadipate CoA-transferase subunit B,3210,pcaJ,704,F,Y,1.807580627,12.8643798,2.218954369,1.436097135,3-oxoadipate CoA-transferase
